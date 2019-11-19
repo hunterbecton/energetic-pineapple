@@ -3,8 +3,8 @@
   "layout_style": "list",
   "palette": "black",
   "header": {
-    "title": "Ampersand",
-    "logo_img": "images/logo.png",
+    "title": "PostMelt",
+    "logo_img": "/images/postmelt.svg",
     "has_nav": true
   },
   "footer": {
